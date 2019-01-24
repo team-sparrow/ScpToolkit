@@ -4,6 +4,8 @@ Windows Driver and XInput Wrapper for Sony DualShock 3/4 Controllers
 ## Archive statement
 **Dear community, it has been an amazing ride but the time has come to let go. The ScpToolkit has outgrown itself and won't be continued any longer. As we're speaking the team behind this solution is working on various successor projects so keep an eye open! Good bye!** 
 
+**As a third party I will maintain dependencies and work on ds5 release if it is ever to come out.**
+
 ## Credits
 ### Community
  * Major props to [original author Scarlet.Crush](http://forums.pcsx2.net/User-Scarlet-Crush) for developing this awesome toolkit!
