@@ -19,6 +19,7 @@
 
       <!-- If your application is designed to work with Windows Vista, uncomment the following supportedOS node-->
       <supportedOS Id="{e2011457-1546-43c5-a5fe-008deee3d3f0}" />
+      <!-- WARN: Vista API Implementation CallbackIDs Deprecated. DO NOT USE UNDER ANY CIRCUMSTANCES.-->
 
       <!-- If your application is designed to work with Windows 7, uncomment the following supportedOS node-->
       <supportedOS Id="{35138b9a-5d96-4fbd-8e2d-a2440225f93a}" />
